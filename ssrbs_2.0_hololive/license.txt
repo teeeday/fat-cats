@@ -1,0 +1,11 @@
+Model Information:
+* title:	SSRBs_2.0_Hololive
+* source:	https://sketchfab.com/3d-models/ssrbs-20-hololive-62cc3ea9db7749a29a5dc4fcf48598b4
+* author:	Armored Interactive (https://sketchfab.com/ychiang6)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SSRBs_2.0_Hololive" (https://sketchfab.com/3d-models/ssrbs-20-hololive-62cc3ea9db7749a29a5dc4fcf48598b4) by Armored Interactive (https://sketchfab.com/ychiang6) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

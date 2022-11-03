@@ -1,0 +1,11 @@
+Model Information:
+* title:	botan SSRB
+* source:	https://sketchfab.com/3d-models/botan-ssrb-c58392d261b44ac9b97341a50f3211f1
+* author:	IgorBaeyens (https://sketchfab.com/IgorBaeyens)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "botan SSRB" (https://sketchfab.com/3d-models/botan-ssrb-c58392d261b44ac9b97341a50f3211f1) by IgorBaeyens (https://sketchfab.com/IgorBaeyens) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
